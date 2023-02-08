@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project for Odin. The Odin Project. It's his project, Odin's. It's for learning. Odin and I are learning and this is his project, and mine. It's both Odin and my project for us to learn. Thanks.
